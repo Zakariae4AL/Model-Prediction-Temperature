@@ -1,0 +1,2 @@
+# Used by Streamlit Community Cloud (and handy for a quick install): the package plus the dashboard.
+-e .[dashboard]
