@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+build/
+dist/
+# Provisional recent days are downloaded on demand
+data/marrakech_recent.csv
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
